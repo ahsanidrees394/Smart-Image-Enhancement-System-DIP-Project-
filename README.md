@@ -1,3 +1,45 @@
+# 🧠 Smart Image Enhancement System
+
+A complete Digital Image Processing (DIP) project that enhances low-quality images using multiple advanced techniques.
+
+---
+
+## 🚀 Features
+
+- 📥 Image Acquisition & Visualization
+- 🔍 Sampling & Quantization
+- 🔄 Geometric Transformations (Rotation, Translation, Shearing)
+- 🎨 Intensity Transformations (Negative, Log, Gamma)
+- 📊 Histogram Equalization (Manual + OpenCV)
+- ⚡ Final Smart Enhancement Pipeline
+
+---
+
+## 🔥 Enhancement Pipeline
+
+The final system applies:
+
+1. **Gamma Correction** → Brightens dark images  
+2. **CLAHE** → Improves local contrast  
+3. **Sharpening (Unsharp Mask)** → Enhances edges  
+4. **Denoising** → Reduces noise while preserving details  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- OpenCV
+- NumPy
+- Matplotlib
+- Streamlit (UI)
+
+---
+
+## 📂 Project Structure
+
+
+
 ## ⚙️ Setup Instructions
 
 Before running the project, follow these steps:
