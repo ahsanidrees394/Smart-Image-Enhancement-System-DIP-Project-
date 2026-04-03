@@ -84,3 +84,6 @@ bash
 pip install opencv-python matplotlib numpy Pillow
 pip install streamlit
 pip install opencv-python matplotlib numpy Pillow streamlit
+
+
+linkedin link: www.linkedin.com/in/muhammad-ahsan-idrees-9a5950293
